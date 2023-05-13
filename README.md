@@ -6,5 +6,9 @@ Requisitos Necessidades:
 
 ```
 apt-get update
+```
+```
 node apps.js
 ```
+
+:)
